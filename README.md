@@ -8,6 +8,7 @@ This project demonstrates how to create reusable card components in React using 
 
 1. NodeJS v16.17.0
 2. IDE (i.e., VSC)
+3. npm: v8.15.0
 
 ## Usage
 
